@@ -100,14 +100,6 @@ HTML        ██░░░░░░░░░░░░░░░░░░   6.30 
 
 </div>
 
-## 🎵 Currently Listening To
-
-<div align="center">
-  
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21qw3zsubnkyqd6nms2nbw42a&count=3)
-
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
