@@ -1,5 +1,3 @@
-# <div align="center">✨ Welcome to Ana-FX's Profile ✨
-
 <div align="center">
   
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ana-FX&fontSize=90&fontAlignY=38&desc=Developer%20|%20Data%20Scientist%20|%20Computer%20Vision%20Expert&descAlignY=60&animation=fadeIn)
