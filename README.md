@@ -1,9 +1,15 @@
 # Hi there 👋 I'm Ana-FX
 
+<div align="center">
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ana-fx&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## About Me
 I'm a developer and data scientist passionate about building innovative solutions. My journey in tech spans from web development to advanced computer vision applications.
 
-## 🚀 Skills
+## 🚀 Skills &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=ana-fx&color=blueviolet)
 
 ### Web Development
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel Framework
@@ -17,7 +23,15 @@ I'm a developer and data scientist passionate about building innovative solution
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-fx&show_icons=true&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-fx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-fx&layout=compact&theme=radical&hide_border=true&border_radius=10&card_width=500)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-fx&theme=radical&hide_border=true&border_radius=10&card_width=500)
+
+</div>
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning techniques
