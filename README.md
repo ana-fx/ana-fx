@@ -64,8 +64,21 @@
 <div align="center">
   
   <a href="https://github.com/ana-fx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-fx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-fx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-fx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
   </a>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-fx&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=FF6E00&currStreakLabel=5BCDEC" alt="GitHub Streak Stats" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=ana-fx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ana-fx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&radius=15" alt="Contribution Graph" />
 
 </div>
 
