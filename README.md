@@ -20,8 +20,8 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-▸ Developer with passion for data science & AI applications
-<br>▸ Currently at GW Design, Australia
+▸ Currently at GW Design, Australia
+<br>▸ Developer with passion for data science & AI applications
 <br>▸ Working on advanced computer vision solutions
 <br>▸ Constantly learning & growing in tech
 <br>▸ Turn coffee into code since 2020
