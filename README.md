@@ -21,6 +21,7 @@
 </div>
 
 ▸ Developer with passion for data science & AI applications
+<br>▸ Currently at GW Design, Australia
 <br>▸ Working on advanced computer vision solutions
 <br>▸ Constantly learning & growing in tech
 <br>▸ Turn coffee into code since 2020
