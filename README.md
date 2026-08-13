@@ -16,9 +16,9 @@
 
 ## About Me
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+<table>
+<tr>
+<td valign="top">
 
 ▸ Fullstack Developer with 3+ years of experience
 <br>▸ Building & scaling high-traffic web apps (event tech, CMS, cloud)
@@ -26,6 +26,15 @@
 <br>▸ Laravel · Go · React/Next.js · TypeScript
 <br>▸ Turning coffee into production systems since 2020
 <br>▸ Building the future one commit at a time
+
+</td>
+<td valign="top" width="300">
+
+<img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=ana-fx&color=blueviolet&style=for-the-badge)
 
